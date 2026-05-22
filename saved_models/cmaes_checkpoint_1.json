@@ -1,0 +1,17 @@
+{
+  "weights": {
+    "w_mono": 0.0,
+    "w_smooth": 1.227590798795317,
+    "w_free": 2.3593264129808835,
+    "w_max": 4.433110032064612,
+    "w_corner": 2.33472511383047,
+    "w_merge": 0.0,
+    "w_snake": 0.0
+  },
+  "fitness": -39517.18259547056,
+  "avg_score": 39517.18259547056,
+  "generation": 48,
+  "mode": "weights",
+  "depth": 2,
+  "n_games": 10
+}
